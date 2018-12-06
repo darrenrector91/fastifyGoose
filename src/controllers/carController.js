@@ -1,4 +1,4 @@
-// External Dependancies
+// External Dependencies
 const boom = require('boom')
 
 // Get Data Models
